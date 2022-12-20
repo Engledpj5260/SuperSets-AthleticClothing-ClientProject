@@ -1,0 +1,66 @@
+
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+nav a{
+    
+    color:  #000;
+    text-decoration:none;
+    padding: 1rem 2rem;
+    font-weight: bold;
+   
+   
+}
+nav a:hover{
+    color: #000;
+    text-decoration: underline;
+    
+}
+header{
+    position: static;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+nav{
+    background-color:#00000070 ;
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    padding: 5rem;
+}
+.merch{
+    text-decoration: underline;
+text-align: center;
+}
+.BS{
+width: 170px;
+justify-content: space-evenly;
+}
+.WS{
+    width: 170px;
+   
+}
+h2{
+    position: relative;
+    text-align: center;
+}
+.center{
+    text-align: justify;
+}
+.floatright{
+    width: 200px;
+    float: right;
+}
+.mitem1{
+    display: inline-block;
+    width: 48%;
+}
+.contactus{
+    display: inline-block;
+    vertical-align: text-bottom;
+    width: 40%;
+    margin: 1rem 4%;
+}
